@@ -1,2 +1,4 @@
 # Meraki-Design-Studio
-Landing page of a website created using HTML and Scss.
+Simple Landing page of a website created using HTML and Scss.
+# Requirements
+Web Browser 
